@@ -1,0 +1,7 @@
+google.genai>=2.7.0
+SpeechRecognition>=3.10.0
+pyttsx3>=2.90
+gTTS>=2.3.0
+requests>=2.28.0
+PyAudio>=0.2.13
+python-vlc>=3.0.0

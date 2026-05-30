@@ -27,7 +27,7 @@ A Python-based voice assistant that listens for voice commands, performs basic t
 git clone <repository-url>
 cd Jarvis
 pip install -r requirements.txt
-export ANY_API_KEY='###'
+export GEMINI_API_KEY='######'
 ```
 
 ## Usage
